@@ -1,6 +1,6 @@
 <div align="center">
 
-# 😍 Hi there! I'm Woojin Choi
+# Hi there! I'm Woojin Choi 😍
 ### 🌱 Software Engineer & AI Enthusiast
 
 <a href="https://git.io/typing-svg">
