@@ -9,7 +9,7 @@
 
   <!-- 1. HEADER: Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Woojin+Choi;A+Passionate+Developer;Building+High-End+Web+Experiences;Always+Learning+%26+Creating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B+I'm+Woojin+Choi;A+Passionate+Developer;Building+High-End+Web+Experiences;Always+Learning+%26+Creating" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -64,11 +64,8 @@
 
   <!-- 7. FOOTER: Contact & Socials -->
   <div align="center">
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:chldnwls37@naver.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
 
