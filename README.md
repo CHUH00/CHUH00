@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hi there! I'm Woojin Choi
+# 😍 Hi there! I'm Woojin Choi
 ### 🌱 Software Engineer & AI Enthusiast
 
 <a href="https://git.io/typing-svg">
@@ -23,7 +23,7 @@
 > **Bridging the gap between Software Engineering and Artificial Intelligence.**
 > I have a strong foundation in Computer Science and am passionate about exploring the endless possibilities of Data and AI.
 
-- 🎓 **Education:** B.S. in Computer Science | **Graduate Student at Konkuk University**
+- 🎓 **Education:** **B.S. in Computer Science, Konkuk University**
 - 🔭 **I’m currently working on:** Advanced machine learning models and scalable backend architectures
 - 🌱 **I’m currently learning:** Large Language Models (LLMs), Generative AI, and Computer Vision
 - 💼 **Job Status:** **Actively looking for full-time opportunities!** Let's connect!
