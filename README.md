@@ -1,74 +1,65 @@
-<!-- 
-  ✨ HOW TO USE ✨
-  1. Create a new repository named "CHUH00" (same as your username).
-  2. Create a file named "README.md".
-  3. Copy and paste the code below.
+<!-- Header Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Woojin's%20Github&fontSize=90" alt="Woojin's Github Header" />
+
+<!-- <p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHUH00&count_bg=%23F05B5B&title_bg=%23555555&icon=github.svg&icon_color=%23D45C5C&title=Today+Visit&edge_flat=false"/></a>
+</p>
 -->
 
-<div align="center">
+# <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git Stats</span>
 
-  <!-- 1. HEADER: Animated Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B+I'm+Woojin+Choi;A+Passionate+Developer;Building+High-End+Web+Experiences;Always+Learning+%26+Creating" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHUH00&show_icons=true&include_all_commits=true&theme=shadow_red" alt="Woojin's GitHub stats" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUH00&layout=compact&theme=shadow_red" alt="Woojin's Top Langs" width="43%" />
+</p>
 
-  <br/>
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHUH00&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width="94%" />
+</p>
 
-  <!-- 2. INTRO: Clean & Professional -->
-  <p align="center">
-    <a href="https://github.com/CHUH00">
-      <img src="https://komarev.com/ghpvc/?username=CHUH00&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-    </a>
-  </p>
+---
 
-  <br/>
+# 💻 Stack
+<table>
+  <tr>
+    <td>FE</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td>BE</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,nodejs" />
+    </td>
+  </tr>
+  <tr>
+    <td>DB</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
+    </td>
+  </tr>
+  <tr>
+    <td>Framework</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django,fastapi,spring" />
+    </td>
+  </tr>
+  <tr>
+    <td>DevOps & Tools</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,notion" />
+    </td>
+  </tr>
+</table>
 
-  <!-- 3. TECH STACK: Animated Icons (Skill Icons) -->
-  <h3 align="center">🛠️ Tech Stack & Tools</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,python,django,git,github,vscode,figma&perline=10" />
-    </a>
-  </p>
+<br>
 
-  <br/>
-
-  <!-- 4. GITHUB STATS: Glassmorphism / Dark Theme -->
-  <h3 align="center">📊 GitHub Analytics</h3>
-  <div align="center">
-    <!-- Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=CHUH00&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6&bg_color=0D1117" height="180" alt="stats graph" />
-    <!-- Streak Card -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHUH00&theme=transparent&hide_border=true&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6&background=0D1117" height="180" alt="streak graph" />
-  </div>
-
-  <br/>
-
-  <!-- 5. TOP LANGUAGES: Compact Bar -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUH00&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=FFFFFF&bg_color=0D1117" height="180" alt="languages graph" />
-  </div>
-
-  <br/>
-
-  <!-- 6. CONTRIBUTION SNAKE: The "Wow" Factor -->
-  <!-- Note: This requires a GitHub Action to work automatically, but the image link below serves as a placeholder or you can set up the action -->
-  <h3 align="center">🐍 Contribution Activity</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <br/><br/>
-
-  <!-- 7. FOOTER: Contact & Socials -->
-  <div align="center">
-    <a href="mailto:chldnwls37@naver.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </div>
-
-  <br/>
-
-</div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CHUH00&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/CHUH00"
+    width="600"
+    height="120"
+  />
+</a>
