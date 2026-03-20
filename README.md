@@ -41,7 +41,7 @@
   <strong>Languages</strong><br>
   <img src="https://skillicons.dev/icons?i=python,java,r,c,javascript,typescript" /><br><br>
   <strong>AI, ML & Data Science</strong><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit,opencv" /><br><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /><br><br>
   <strong>Backend & Databases</strong><br>
   <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,mysql,postgresql,mongodb" /><br><br>
   <strong>DevOps & Tools</strong><br>
