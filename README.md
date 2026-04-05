@@ -58,7 +58,7 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHUH00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF4B4B&text_color=c9d1d9&icon_color=FF4B4B&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api?username=CHUH00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF4B4B&text_color=c9d1d9&icon_color=FF4B4B&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHUH00&theme=dark&hide_border=true&title_color=FF4B4B&text_color=c9d1d9&icon_color=FF4B4B&background=0D1117&ring=FF4B4B&fire=FF4B4B&currStreakLabel=FF4B4B" alt="GitHub Streak" />
 </p>
 
@@ -68,7 +68,7 @@
 
 ### 🥇 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHUH00&layout=compact&hide_border=true&title_color=FF4B4B&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=CHUH00&layout=compact&hide_border=true&title_color=FF4B4B&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 </div>
