@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there! I'm Woojin Choi 😍
-### 🌱 Software Engineer & AI Enthusiast
+### 🌱 AI Engineer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+Systems;Exploring+Deep+Learning+%26+Computer+Vision;Analyzing+Complex+Data+Pipelines;Solving+Problems+with+Code..." alt="Typing SVG" />
